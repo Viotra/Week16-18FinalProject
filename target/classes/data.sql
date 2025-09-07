@@ -1,0 +1,18 @@
+INSERT INTO style (name) VALUES ("Karate");
+INSERT INTO style (name) VALUES ("Aikido");
+INSERT INTO style (name) VALUES ("Kickboxing");
+INSERT INTO style (name) VALUES ("Judo");
+INSERT INTO style (name) VALUES ("Taekwondo");
+INSERT INTO style (name) VALUES ("Kung Fu");
+INSERT INTO style (name) VALUES ("Muay Thai");
+INSERT INTO style (name) VALUES ("Boxing");
+INSERT INTO style (name) VALUES ("Brazilian Jiu-Jitsu");
+INSERT INTO style (name) VALUES ("Krav Maga");
+INSERT INTO style (name) VALUES ("Capoeira");
+INSERT INTO style (name) VALUES ("Tai Chi");
+INSERT INTO style (name) VALUES ("Wing Chun");
+INSERT INTO style (name) VALUES ("Jeet Kune Do");
+INSERT INTO style (name) VALUES ("Hapkido");
+INSERT INTO style (name) VALUES ("Sambo");
+INSERT INTO style (name) VALUES ("Sumo");
+INSERT INTO style (name) VALUES ("Wrestling");

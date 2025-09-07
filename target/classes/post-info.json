@@ -1,0 +1,28 @@
+//post fighter
+{
+	"firstName": "Jerry",
+	"lastName": "Hernandez",
+	"height": "5.6",
+	"weight": "187",
+	"reach": "36.5",
+	"age": "27",
+	"wins": "2",
+	"losses": "1",
+	"draws": "0",
+	"gym": "Test Gym",
+	"styles": [
+		"Boxing",
+		"Muay Thai"
+	]
+}
+//post gym
+{
+	"gymName": "Hardcore Boxing Club",
+	"coach": "Hank Hill",
+	"streetAddress": "3506 Up River Rd",
+	"city": "Corpus Christi",
+	"state": "Texas",
+	"zip": "78408",
+	"phone": "678-217-4972",
+	"style": "Boxing"
+}

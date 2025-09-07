@@ -1,0 +1,19 @@
+spring:
+   datasource:
+      url: jdbc:mysql://localhost:3306/fighter_information
+      username: fighter_information 
+      password: fighter_information
+   
+   jpa:
+      hibernate:
+         ddl-auto: update
+      show-sql: true
+      defer-datasource-initialization: true
+    
+      properties: 
+         hibernate:
+            format_sql: true 
+   
+   sql:
+      init:
+         mode: never
